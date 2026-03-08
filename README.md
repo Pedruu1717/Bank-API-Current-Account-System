@@ -21,6 +21,8 @@ To run the application, first open the folder which contains this repository and
   <br>
   <b>3.</b> .\gradlew bootrun
 
+Although the main objective of this project is the use of the API, a minimalistic website is available at http://localhost:8080
+
 ## 🎯 System objective
 
 Allow clients to:
