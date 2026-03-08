@@ -1,3 +1,6 @@
+## 🔧 Architecture
+Controller → Service → Repository
+
 ## 📃 API Documentation
 
 This project provides interactive API documentation using Swagger.
